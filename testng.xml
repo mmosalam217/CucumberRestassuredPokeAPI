@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Pokemon API Tests">
+    <test name="Pokemon">        
+         <classes>
+             <class name="api.runners.CucumberAPITest"/>
+          </classes>
+     </test> 
+</suite> 
